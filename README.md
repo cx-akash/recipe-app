@@ -26,6 +26,8 @@ Users can view, search, and add new recipes..
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repo
+
 ```bash
-git clone https://github.com/your-username/recipe-management-app.git
-cd recipe-management-app
+git clone https://github.com/cx-akash/recipe-app.git
+cd recipe-app
+```
